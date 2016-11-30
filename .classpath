@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/jackson-annotations-2.8.0.rc1.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/jackson-core-2.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/jackson-databind-2.8.4.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aop-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aop-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aop-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aspects-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aspects-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-aspects-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-beans-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-beans-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-beans-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-support-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-support-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-context-support-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-core-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-core-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-core-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-expression-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-expression-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-expression-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-tomcat-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-tomcat-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-instrument-tomcat-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jdbc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jdbc-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jdbc-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jms-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jms-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-jms-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-messaging-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-messaging-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-messaging-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-orm-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-orm-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-orm-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-oxm-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-oxm-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-oxm-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-test-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-test-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-test-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-tx-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-tx-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-tx-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-web-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-web-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-web-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-portlet-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-portlet-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-portlet-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-websocket-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-websocket-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/spring-framework-4.3.3.RELEASE/libs/spring-websocket-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/joda-time-2.4-dist/joda-time-2.4/joda-time-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/joda-time-2.4-dist/joda-time-2.4/joda-time-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/joda-time-2.4-dist/joda-time-2.4/joda-time-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/msse/2nd sem/281 Kong Li/jars/jackson-dataformat-xml-2.1.1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
